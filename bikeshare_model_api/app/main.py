@@ -28,6 +28,7 @@ def index(request: Request) -> Any:
         "<body style='padding: 10px;'>"
         "<h1 style='background-color:LightGray;'><center>Bikeshare Application</center></h1>"
         "<h2>Welcome to the API</h2>"
+        "<h2>Group 4</h2>"
         "<div>"
         "Check the docs: <a href='/docs'>here</a>"
         "</div>"
